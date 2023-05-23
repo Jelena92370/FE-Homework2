@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+h2, ul, table {
+    margin: 30px;
+}
+
+h2 {font: bold;
+}
+
+ul {margin-left: 80px;
+    list-style: disc inside;
+    
+}
+
+table, td, th {border: 2px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+.laptop-table {
+    margin-top: 50px;
+}
